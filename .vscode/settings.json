@@ -1,0 +1,5 @@
+{
+  // Typst
+  "tinymist.formatterProseWrap": true,
+  "tinymist.formatterPrintWidth": 80
+}
