@@ -104,7 +104,7 @@ enriquecimiento del análisis mediante fuentes de datos abiertos (Open Data).
 
 = Arquitectura de Procesamiento y Enriquecimiento con Datos Abiertos
 
-Olist maneja un volumen estimado de 12.5 GB de datos por día (~4.5 TB/año) con
+Olist maneja un volumen estimado de 12.5 GB de datos por día (\~4.5 TB/año) con
 requerimientos de latencia inferiores a 5 segundos para alertas en tiempo real
 sobre retrasos en entregas. A continuación se define la infraestructura técnica
 para abordar este escenario.
@@ -213,10 +213,10 @@ predictivo. Variables como las condiciones climáticas, el tráfico urbano y los
 indicadores socioeconómicos regionales tienen un impacto directo en la logística
 de última milla y no están presentes en el dataset transaccional de Olist.
 
-Se ha identificado el conjunto de datos abiertos _INMET — Dados Históricos
-Anuais_ (Instituto Nacional de Meteorología de Brasil), disponible en el Portal
-Brasileiro de Dados Abertos (#link(
-  "https://dados.gov.br/dados/conjuntos-dados/inmet-dados-historicos",
+Se ha identificado el conjunto de datos abiertos _Dados Históricos Anuais_ del
+Instituto Nacional de Meteorología de Brasil (INMET), disponible a través del
+portal oficial del INMET (#link(
+  "https://portal.inmet.gov.br/dadoshistoricos",
 )).
 
 Este dataset contiene registros meteorológicos diarios de más de 500 estaciones
