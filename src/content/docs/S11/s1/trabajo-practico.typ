@@ -57,6 +57,7 @@
     [Olivos Suxe, Neyser Alexander], [U22315776],
     [Pecho Santos, Manuel Angel], [U76075762],
     [Ramos Yampufe, Martin Alexander], [U22214724],
+    [Neyra Nina, Bryan Smelin], [U19204046],
     columns: (55%, 25%),
     gutter: 0.25cm,
     stroke: none,
